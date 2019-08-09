@@ -17,4 +17,4 @@ Running tests
 
 Html report
 
-- allure serve
+- allure serve allure_results
